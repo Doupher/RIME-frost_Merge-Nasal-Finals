@@ -1,5 +1,9 @@
 # 白霜拼音
 
+## 这是一个fork，添加了前后鼻音模糊的功能，readme下面的我懒得改了，我只把那个star的删了，可以去赞助一下原作者
+
+**[白霜拼音原仓库](https://github.com/gaboolic/rime-frost)**
+
 白露凝烟绕玉堂，霜华浸月映回廊。拼将清景藏诗里，音绕庭轩岁月长。
 
 原始配置和词库由[雾凇拼音](https://github.com/iDvel/rime-ice)的 [af2480b](https://github.com/iDvel/rime-ice/commit/af2480ba1b147a6a54c0c21e2997ef451c34e036) commit 修改而来。
@@ -175,12 +179,9 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 雨燕输入法 <https://github.com/gurecn/YuyanIme> 一个开箱即用的安卓输入法
 
-### 赞助
+### 赞助原作者
 
 如果觉得项目不错，可以支持一下。[赞助](https://www.chunqiujinjing.com/donate/)
 
 <img src="./others/img/zanshangma.jpg" alt="微信赞赏码" width=300 />
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)
